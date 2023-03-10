@@ -66,7 +66,6 @@ const PageTest = ({head, body}:  ITestModel) => {
     );
 };
 
-
 const ContainerSC = styled("div")`
     margin-top: 20px;
     background-color: rgba(0, 0, 0, 0.5);

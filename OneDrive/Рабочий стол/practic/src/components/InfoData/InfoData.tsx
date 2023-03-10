@@ -6,7 +6,6 @@ interface IInfoDataProps {
     info: IInfoModel[]
 }
 const InfoData = ({info}: IInfoDataProps) => {
-    console.log(info);
     return (
         <>
             {info.map((infoItem, index) => (
