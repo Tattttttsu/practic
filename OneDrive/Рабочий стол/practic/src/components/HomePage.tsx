@@ -21,10 +21,10 @@ const HomePage = () => {
                 ))}
                 <BorderSC/>
                 <ButtonStyle>
-                    <Button fullWidth variant="contained" href="/user.word" download>Руководство пользователя</Button>
+                    <Button fullWidth variant="contained" href="/rukovodstvo_programmsita.docx" download>Руководство пользователя</Button>
                 </ButtonStyle>
                 <ButtonStyle>
-                    <Button fullWidth variant="contained" href="/softwareEngineer.word" download>руководство программиста</Button>
+                    <Button fullWidth variant="contained" href="/rukovodstvo_polzovatelya.docx" download>руководство программиста</Button>
                 </ButtonStyle>
             </ButtonContainerSC>
         </ContainerSC>
